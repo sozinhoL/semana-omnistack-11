@@ -1,3 +1,5 @@
+[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/Rocketseat/semana-omnistack-11) 
+
 <h1 align="center">
     <img alt="DevRadar" title="#delicinha" src=".github/bethehero.svg" width="200px" />
 </h1>
